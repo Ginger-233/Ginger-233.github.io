@@ -1,7 +1,10 @@
-# Academic Pages
-**Academic Pages is a GitHub Pages template for personal and professional portfolio-oriented websites.**
+# Ran Zhenning's Personal Website
 
-![Academic Pages template example](images/themes/homepage-light.png "Academic Pages template example")
+This website is based on the [AcademicPages template](https://github.com/academicpages/academicpages.github.io).
+
+👉 **[中文使用指南 (Chinese Guide)](README_CN.md)**
+
+For original template documentation, please verify [academicpages.github.io](https://academicpages.github.io/).
 
 # Getting Started
 

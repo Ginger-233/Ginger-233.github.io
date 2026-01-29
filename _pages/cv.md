@@ -9,56 +9,38 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+## Education
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Shanghai Jiao Tong University** (2023.7 – Present)
+  * Notable Courses: Algorithm Design (A+), Data Structures (A+), Computer Architecture (A+), Discrete Mathematics (A+), Operating Systems (A).
+  * GPA Ranking: Top Tier.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+## Research & Projects
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+### Bi-value Chores under EFX (2025.10 – Present)
+* **Topic**: Fair Division, EFX in Bi-value Chores.
+* **Contribution**: Proposed a most-envy graph algorithm and function-based Envy-Cycle Elimination.
+* **Result**: Submitted to top conferences (FOCS/WINE).
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+### RAG Teaching Assistant System (2025.9 – 2025.11)
+* **Role**: Lead Developer.
+* **Tech Stack**: AsyncIO, Embedding API, ChromaDB.
+* **Achievements**: Optimized I/O concurrency (80% speedup), implemented Top-K retrieval, and integrated Qwen-VL for multi-modal support (PDF/Slides).
+* **Outcome**: Deployed a "RAG-Base-Teaching-Assistant" system.
+
+### Flowrank: Mining Silent Data Errors in Jupyter Notebooks (2025.8 – 2025.10)
+* **Role**: Researcher.
+* **Contribution**: Developed AST analysis for cell dependencies, Temporal Risk Weighting for Time-Travel bugs.
+* **Method**: Used Sensitivity-Influence algorithms (HITS + Katz Centrality) to identify Root Causes.
+
+## Skills
+
+* **Programming**: Python, C/C++, ARM Assembly, Shell.
+* **Tools**: PyTorch, Chainlit, Docker, Git, LaTeX, Markdown.
+* **Other**: Mathematical Modeling, Vibe Coding.
+
+## Publications & Manuscripts
+
+<ul>{% for post in site.publications reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}</ul>
