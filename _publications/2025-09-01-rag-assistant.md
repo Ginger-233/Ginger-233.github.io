@@ -4,10 +4,12 @@ collection: publications
 permalink: /publication/2025-09-01-rag-assistant
 excerpt: 'An intelligent teaching assistant system using LLM and RAG, achieving 80% speedup in I/O concurrency.'
 date: 2025-09-01
-venue: 'Project'
+venue: 'Course Project / Prototype'
 paperurl: ''
 citation: ''
 ---
+**Status**: Course Project / Prototype (Deployed).
+
 **Role**: Lead Developer.
 
 **Tech Stack**: AsyncIO, Embedding API, ChromaDB.
@@ -16,5 +18,3 @@ citation: ''
 - Optimized I/O concurrency (80% speedup).
 - Implemented Top-K retrieval.
 - Integrated Qwen-VL for multi-modal support (PDF/Slides).
-
-**Outcome**: Deployed a "RAG-Base-Teaching-Assistant" system.

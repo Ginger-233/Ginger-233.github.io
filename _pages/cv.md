@@ -11,36 +11,44 @@ redirect_from:
 
 ## Education
 
-* **Shanghai Jiao Tong University** (2023.7 – Present)
-  * Notable Courses: Algorithm Design (A+), Data Structures (A+), Computer Architecture (A+), Discrete Mathematics (A+), Operating Systems (A).
-  * GPA Ranking: Top Tier.
+* **Shanghai Jiao Tong University (SJTU)**
+  * **Major**: 人工智能卓越人才试点班
+  * **Duration**: 2023.09 – Present
+  * **Key Courses**: 
+    * Algorithm Design
+    * Data Structures
+    * Computer Architecture
+    * Discrete Mathematics
+    * Operating Systems
 
 ## Research & Projects
 
 ### Bi-value Chores under EFX (2025.10 – Present)
-* **Topic**: Fair Division, EFX in Bi-value Chores.
-* **Contribution**: Proposed a most-envy graph algorithm and function-based Envy-Cycle Elimination.
-* **Result**: Submitted to top conferences (FOCS/WINE).
+* **Topic**: Fair Division (Approximation Algorithms).
+* **Status**: **Work in Progress (Unsubmitted)**.
+* **Work**: 
+  * Proposed a **most-envy graph** algorithm.
+  * Developing a **function-based Envy-Cycle Elimination** method.
 
-### RAG Teaching Assistant System (2025.9 – 2025.11)
+### RAG Teaching Assistant System (2025.09 – 2025.11)
 * **Role**: Lead Developer.
-* **Tech Stack**: AsyncIO, Embedding API, ChromaDB.
-* **Achievements**: Optimized I/O concurrency (80% speedup), implemented Top-K retrieval, and integrated Qwen-VL for multi-modal support (PDF/Slides).
-* **Outcome**: Deployed a "RAG-Base-Teaching-Assistant" system.
+* **Status**: Course Project / Prototype.
+* **Work**:
+  * Solved RAG context window limitations.
+  * Optimized I/O with **AsyncIO** (80% speedup).
+  * Implemented Top-K retrieval and integrated **Qwen-VL** for PDF/Slide teaching.
+* **Outcome**: Deployed as "RAG-Base-Teaching-Assistant".
 
-### Flowrank: Mining Silent Data Errors in Jupyter Notebooks (2025.8 – 2025.10)
+### Flowrank: Mining Silent Data Errors in Jupyter Notebooks (2025.08 – 2025.10)
 * **Role**: Researcher.
-* **Contribution**: Developed AST analysis for cell dependencies, Temporal Risk Weighting for Time-Travel bugs.
-* **Method**: Used Sensitivity-Influence algorithms (HITS + Katz Centrality) to identify Root Causes.
+* **Status**: **Research Project (Ongoing)**.
+* **Work**:
+  * Analyze "Silent Data Errors" caused by out-of-order execution in Notebooks.
+  * Building an **AST-based** analyzer.
+  * Proposing **Temporal Risk Weighting** for time-travel bugs.
 
 ## Skills
 
-* **Programming**: Python, C/C++, ARM Assembly, Shell.
-* **Tools**: PyTorch, Chainlit, Docker, Git, LaTeX, Markdown.
-* **Other**: Mathematical Modeling, Vibe Coding.
-
-## Publications & Manuscripts
-
-<ul>{% for post in site.publications reversed %}
-  {% include archive-single-cv.html %}
-{% endfor %}</ul>
+* **Languages**: Python, C/C++, ARM Assembly, Shell
+* **Frameworks/Tools**: PyTorch, Chainlit, Docker, Git, LaTex, Markdown
+* **Others**: Mathematical Modeling

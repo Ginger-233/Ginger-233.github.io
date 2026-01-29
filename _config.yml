@@ -22,12 +22,12 @@ repository               : "Ginger-233/Ginger-233.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png" # You can replace this file in the images folder
+  avatar           : "头像.png" # You can replace this file in the images folder
   name             : "Ran Zhenning"
-  pronouns         : # example: "she/her"  
-  bio              : "Researcher at Shanghai Jiao Tong University"
+  # pronouns         : # example: "she/her"  
+  bio              : "Undergraduate Student at SJTU"
   location         : "Shanghai, China"
-  employer         : "Shanghai Jiao Tong University"
+  # employer         : "Shanghai Jiao Tong University"
   uri              : # URL
   email            : "rzn-sjtu@sjtu.edu.cn"
 
